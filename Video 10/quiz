@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>video: catagerys</title>
+</head>
+<body>
+    <h1>Tutorials:</h1>
+    <h2>Basketball Tutorials</h2>
+    <ul>
+        <label for="Basketball 1">Tutorial 1</label>
+        <li id="Basketball 1" class="Basketball">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/CMQp0bwjokw?si=DyQGUxaCLYOQbY7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <label for="Basketball 2">Tutorial 2</label>
+        <li id="Basketball 2" class="Basketball">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/hPmc7R_dAxc?si=mVdEdSCkwF4DDfzb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <label for="Basketball 3">Tutorial 3</label>
+        <li id="Basketball 3" class="Basketball">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/F1BpZ2Qzkdg?si=4u5qx52xUPwc5WnW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+    </ul>
+    <h2>badminton Tutorials</h2>
+    <ul>
+        <label for="tutorial 1">Tutorial 1</label>
+        <li id="Tutorial 1">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fBa08o5GEqw?si=H-LNybgfTmEzeFvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <label for="tutotial 2">Tutorial 2</label>
+        <li id="tutorial 2" class="badminton">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/J-YAqfLpzsQ?si=MhHikH-h0An6K93w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <label for="Tutorial 3">Tutorial 3</label>
+        <li id="Tutorial 3" class="badminton">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7Oo98XY0rtA?si=jB_WeNNhIHvGpz2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+    </ul>
+    <h1>Cool videos:</h1>
+    <h2>Horror:</h2>
+    <ul>
+        <li>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/zlpfcKffgDA?si=e0tpQtntWzNynGuD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <li>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1t4EmYkrHw0?si=FkIKiR3L4rrjGdaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <li>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/vJDu7ps_OKQ?si=1KuEw7k_hsGwUqrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>        
+    </ul>
+    <h2>Prof live:</h2>
+    <ul>
+        <li>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/WIGGnZNLDIc?si=1oPvwO1K9eTEPY-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <li>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/kxUqXQ7tGLQ?si=xW-lNJ5_qwy6SnVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>
+        <li>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/vacZfiSCV54?si=JGu_9VPIAxgQybE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </li>        
+    </ul>
+</body>
+</html>
